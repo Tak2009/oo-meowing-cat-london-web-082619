@@ -9,8 +9,8 @@ end
 
 maru = Cat.new
 maru.name = "Maru"
-maru.name
+p maru.name
 maru.name = "Tama"
-maru.name
+p maru.name
 maru.meow
 
